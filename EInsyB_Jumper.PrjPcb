@@ -105,6 +105,74 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WJSKBDPW
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for EInsyB_Jumper\Design Rule Check - Jumper.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for EInsyB_Jumper\NC Drill\Jumper.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for EInsyB_Jumper\Gerber\Jumper.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for EInsyB_Jumper\Gerber\Jumper.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for EInsyB_Jumper\Gerber\Jumper.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for EInsyB_Jumper\Gerber\Jumper.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for EInsyB_Jumper\Gerber\Jumper.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for EInsyB_Jumper\Gerber\Jumper.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for EInsyB_Jumper\Gerber\Jumper.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for EInsyB_Jumper\Gerber\Jumper.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for EInsyB_Jumper\Gerber\Jumper.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for EInsyB_Jumper\Gerber\Jumper.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for EInsyB_Jumper\Gerber\Jumper.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for EInsyB_Jumper\NC Drill\Jumper.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for EInsyB_Jumper\Gerber\Jumper.REP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for EInsyB_Jumper\Gerber\Jumper.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for EInsyB_Jumper\NC Drill\Jumper.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

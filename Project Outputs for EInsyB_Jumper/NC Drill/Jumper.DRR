@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Jumper.PcbDoc   1/24/2018  2:07:50 PM
+NCDrill File Report For: Jumper.PcbDoc   5/15/2018  2:40:26 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,14 +7,15 @@ ASCII RoundHoles File : Jumper.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      10mil (0.254mm)                                           Round             268       PTH        60.66inch (1540.67mm)
-T2      15mil (0.381mm)                                           Round             32        PTH        15.99inch (406.20mm)
-T3      28mil (0.711mm)                                           Round             2         PTH        0.10inch (2.54mm)
-T4      35mil (0.9mm)                                             Round             414       PTH        56.67inch (1439.42mm)
-T5      55mil (1.397mm)                                           Round             8         PTH        5.57inch (141.55mm)
-T6      80mil (2.032mm)                                           Round             2         PTH        4.46inch (113.22mm)
-T7      118mil (3mm)                                              Round             4         NPTH       14.04inch (356.64mm)
+T1      10mil (0.254mm)                                           Round             374       PTH        0.00inch (0.00mm)
+T2      15mil (0.381mm)                                           Round             74        PTH        0.00inch (0.00mm)
+T3      35mil (0.9mm)                                             Round             134       PTH        0.00inch (0.00mm)
+T4      38mil (0.965mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T5      55mil (1.397mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T6      80mil (2.032mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T7      87mil (2.21mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T8      118mil (3mm)                                              Round             4         NPTH       0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              730
+Totals                                                                              602
 
 Total Processing Time (hh:mm:ss) : 00:00:00
